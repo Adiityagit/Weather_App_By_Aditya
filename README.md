@@ -30,7 +30,7 @@ It shows current weather and a 7-day forecast with smooth animations, glowing se
 
 ## 🌐 Live Demo
 
-👉 [Visit the live site here]([https://your-vercel-link.vercel.app](https://adiityagit.github.io/Weather_App_By_Aditya/))
+👉 [Visit the live site here]((https://adiityagit.github.io/Weather_App_By_Aditya/))
 *(Replace with your actual Vercel or GitHub Pages link)*
 
 ---
