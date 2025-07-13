@@ -8,7 +8,7 @@ It shows current weather and a 7-day forecast with smooth animations, glowing se
 ## 🚀 Features
 
 * 🌍 **Live Weather Updates** (via WeatherAPI)
-* 🗕️ **7-Day Forecast** with humidity and temperature
+* ✨ **7-Day Forecast** with humidity and temperature
 * 🔍 **City Autocomplete** suggestions
 * ⚡ **Animated Weather Icons & UI Effects**
 * ☔ **Weather Advice** (e.g. "Take an umbrella" on rainy days)
@@ -22,7 +22,7 @@ It shows current weather and a 7-day forecast with smooth animations, glowing se
 * HTML5, CSS3, Vanilla JavaScript
 * WeatherAPI for weather data
 * Google Fonts (`Inter`, `Poppins`)
-* Custom CSS animations and glow button (from Uiverse.io)
+* Custom CSS animations and glow button 
 
 ---
 
